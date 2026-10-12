@@ -1,0 +1,1 @@
+print(7 * "Hallo World!\n") 
