@@ -1,1 +1,1 @@
-print(7 * "Hallo World!\n") 
+print(7 * "Hallo World!\n")
